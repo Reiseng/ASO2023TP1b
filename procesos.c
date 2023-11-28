@@ -4,7 +4,7 @@
 #include <sys/wait.h>
 
 
-int main( ){
+int main() {
    pid_t child_pid;
 
    child_pid = fork (); //Crea nuevo proceso hijo
