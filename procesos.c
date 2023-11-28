@@ -3,7 +3,6 @@
 #include <stdio.h>
 #include <sys/wait.h>
 
-
 int main() {
    pid_t child_pid;
 
